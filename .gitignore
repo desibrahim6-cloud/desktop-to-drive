@@ -1,0 +1,12 @@
+# Personal data written by the tool
+log.txt
+groups.json
+keep.txt
+preview.txt
+errors.txt
+PAUSE
+settings.json
+
+__pycache__/
+*.pyc
+.DS_Store
